@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lambda Calculus",
+      "path": "Inno Sum24/Lambda Calculus/Lambda Calculus.md"
+    },
+    {
+      "basename": "Epimorphism",
+      "path": "Extra Math/Category Theory/Morphisms/Epimorphism.md"
+    },
+    {
       "basename": "Axiomatic Semantics",
       "path": "Inno Sum24/Formal Program Semantics/Axiomatic Semantics.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Denotational Semantics",
       "path": "Inno Sum24/Formal Program Semantics/Denotational Semantics.md"
-    },
-    {
-      "basename": "Epimorphism",
-      "path": "Extra Math/Category Theory/Morphisms/Epimorphism.md"
     },
     {
       "basename": "Surjection",
@@ -195,10 +199,6 @@
     {
       "basename": "Randomly Build BST",
       "path": "Inno S24/Data Structures and Algorithms/Randomly Build BST.md"
-    },
-    {
-      "basename": "Regular Expressions",
-      "path": "Inno S24/Theoretical Computer Science/Regular Expressions.md"
     }
   ],
   "omittedPaths": [],
