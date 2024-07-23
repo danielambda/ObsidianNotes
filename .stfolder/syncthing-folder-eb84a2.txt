@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: u4ntw-fue22
+created: 2024-06-12T22:50:41+03:00

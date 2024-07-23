@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Axiomatic Semantics",
+      "path": "Inno Sum24/Formal Program Semantics/Axiomatic Semantics.md"
+    },
+    {
+      "basename": "Monomorphism",
+      "path": "Extra Math/Category Theory/Morphisms/Monomorphism.md"
+    },
+    {
+      "basename": "Operational Semantics",
+      "path": "Inno Sum24/Formal Program Semantics/Operational Semantics.md"
+    },
+    {
+      "basename": "Toy Esoteric Language",
+      "path": "Inno Sum24/Formal Program Semantics/Toy Esoteric Language.md"
+    },
+    {
+      "basename": "Pasted image 20240615192443",
+      "path": "Attachments/Pasted image 20240615192443.png"
+    },
+    {
+      "basename": "Denotational Semantics",
+      "path": "Inno Sum24/Formal Program Semantics/Denotational Semantics.md"
+    },
+    {
+      "basename": "Epimorphism",
+      "path": "Extra Math/Category Theory/Morphisms/Epimorphism.md"
+    },
+    {
+      "basename": "Surjection",
+      "path": "Extra Math/Basic Definitions/Surjection.md"
+    },
+    {
+      "basename": "Injection",
+      "path": "Extra Math/Basic Definitions/Injection.md"
+    },
+    {
+      "basename": "Morphism",
+      "path": "Extra Math/Category Theory/Basic Definitions/Morphism.md"
+    },
+    {
+      "basename": "Epimorphism (Algebra)",
+      "path": "Extra Math/Abstract Algebra/Basics/Epimorphism (Algebra).md"
+    },
+    {
+      "basename": "Generative Grammar",
+      "path": "Inno S24/Theoretical Computer Science/Generative Grammar.md"
+    },
+    {
+      "basename": "Pumping Lemma",
+      "path": "Inno S24/Theoretical Computer Science/Pumping Lemma.md"
+    },
+    {
+      "basename": "Regular Language",
+      "path": "Inno S24/Theoretical Computer Science/Regular Language.md"
+    },
+    {
+      "basename": "1. Theoretical Computer Science",
+      "path": "Inno S24/Theoretical Computer Science/1. Theoretical Computer Science.md"
+    },
+    {
+      "basename": "Esoteric Programming Languages",
+      "path": "Inno F23/Mathematical analysis I/Esoteric Programming Languages.md"
+    },
+    {
+      "basename": "Chomsky Hierarchy",
+      "path": "Inno S24/Theoretical Computer Science/Chomsky Hierarchy.md"
+    },
+    {
+      "basename": "Regular Grammar",
+      "path": "Inno S24/Theoretical Computer Science/Regular Grammar.md"
+    },
+    {
+      "basename": "Multidimentional Taylor Series",
+      "path": "Inno S24/Mathematical Analysis II/Multidimentional Taylor Series.md"
+    },
+    {
+      "basename": "Indefinite Integral",
+      "path": "Inno F23/Mathematical analysis I/Indefinite Integral.md"
+    },
+    {
+      "basename": "Natural Numbers Representation",
+      "path": "Inno F23/Mathematical analysis I/Natural Numbers Representation.md"
+    },
+    {
+      "basename": "Category",
+      "path": "Extra Math/Category Theory/Basic Definitions/Category.md"
+    },
+    {
+      "basename": "Transitivity",
+      "path": "Extra Math/Category Theory/Basic Definitions/Transitivity.md"
+    },
+    {
+      "basename": "Ordered Pair",
+      "path": "Inno F23/Mathematical analysis I/Ordered Pair.md"
+    },
+    {
+      "basename": "Chromatic Number",
+      "path": "Inno F23/Discrete math & Logic I/Chromatic Number.md"
+    },
+    {
+      "basename": "Lagrange Theorem (Group Theory)",
+      "path": "Extra Math/Abstract Algebra/Group Theory/Lagrange Theorem (Group Theory).md"
+    },
+    {
+      "basename": "Chromatic Polynomial",
+      "path": "Extra Math/Abstract Algebra/Basics/Chromatic Polynomial.md"
+    },
+    {
+      "basename": "Master Theorem",
+      "path": "Inno S24/Data Structures and Algorithms/Master Theorem.md"
+    },
+    {
+      "basename": "1 Data Structures and Algorithms",
+      "path": "Inno S24/Data Structures and Algorithms/1 Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "Least Squares",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Least Squares.md"
+    },
+    {
+      "basename": "Projection 2D",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Projection 2D.md"
+    },
+    {
+      "basename": "1. Analytic Geometry & Linear Algebra II",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/1. Analytic Geometry & Linear Algebra II.md"
+    },
+    {
+      "basename": "Projection",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Projection.md"
+    },
+    {
+      "basename": "4 Fundamental Spaces of Matrix",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/4 Fundamental Spaces of Matrix.md"
+    },
+    {
+      "basename": "Column Space",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Column Space.md"
+    },
+    {
+      "basename": "Row Space",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Row Space.md"
+    },
+    {
+      "basename": "Left Null Space",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Left Null Space.md"
+    },
+    {
+      "basename": "Null Space",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Null Space.md"
+    },
+    {
+      "basename": "Matrix Rank",
+      "path": "Inno F23/Analytic Geometry & Linear Algebra I/Matrix Rank.md"
+    },
+    {
+      "basename": "Matrix Transposition",
+      "path": "Inno F23/Analytic Geometry & Linear Algebra I/Matrix Transposition.md"
+    },
+    {
+      "basename": "BST Rotations",
+      "path": "Inno S24/Data Structures and Algorithms/BST Rotations.md"
+    },
+    {
+      "basename": "Binary Search Tree",
+      "path": "Inno S24/Data Structures and Algorithms/Binary Search Tree.md"
+    },
+    {
+      "basename": "Red-Black Tree",
+      "path": "Inno S24/Data Structures and Algorithms/Red-Black Tree.md"
+    },
+    {
+      "basename": "Pushdown Automata (PDA)",
+      "path": "Inno S24/Theoretical Computer Science/Pushdown Automata (PDA).md"
+    },
+    {
+      "basename": "Tree Traversals",
+      "path": "Inno S24/Data Structures and Algorithms/Tree Traversals.md"
+    },
+    {
+      "basename": "AVL Tree",
+      "path": "Inno S24/Data Structures and Algorithms/AVL Tree.md"
+    },
+    {
+      "basename": "Pasted image 20240304214116",
+      "path": "Attachments/Pasted image 20240304214116.png"
+    },
+    {
+      "basename": "Binary Tree",
+      "path": "Inno S24/Data Structures and Algorithms/Binary Tree.md"
+    },
+    {
+      "basename": "Randomly Build BST",
+      "path": "Inno S24/Data Structures and Algorithms/Randomly Build BST.md"
+    },
+    {
+      "basename": "Regular Expressions",
+      "path": "Inno S24/Theoretical Computer Science/Regular Expressions.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

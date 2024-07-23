@@ -1,0 +1,5 @@
+---
+tags:
+  - CompArch
+---
+![[AnatomyOfComputerImage.png]]
