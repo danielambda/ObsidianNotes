@@ -11,7 +11,7 @@ tags:
 - Power-sets (the seta of all subsets of a set) exist
 - Subsets specified by properties exist
 - Unions of sets
-- [[Cartesian product]]s of sets exist
+- [[Cartesian Product]]s of sets exist
 ## Ways of formulating
 - Relationships such as "to be an element" ($\in$), "not to be an element" ($\notin$), "to be a proper subset" ($\subset$), "to be a subset" ($\subseteq$), "equality of elements and sets" (=) can be used
 ## Definitions

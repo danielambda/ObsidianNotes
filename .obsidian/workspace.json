@@ -4,29 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "91d9fb7d7a39f9ed",
+        "id": "27733bd0c3ec6727",
         "type": "tabs",
         "children": [
           {
-            "id": "15f28affa95b8090",
+            "id": "08dc66154b8de6a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inno Sum24/Lambda Calculus/Lambda Calculus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "fb6602390cb493a6",
+            "id": "3ec19c8430997862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inno Sum24/Formal Program Semantics/Axiomatic Semantics.md",
+                "file": "Extra Math/Category Theory/Terminal Object.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inno Sum24/Lambda Calculus/Lambda Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inno Sum24/Lambda Calculus/Lambda Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inno Sum24/Lambda Calculus/Lambda Calculus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,45 +191,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15f28affa95b8090",
+  "active": "08dc66154b8de6a3",
   "lastOpenFiles": [
-    "Extra Math/Category Theory/Morphisms/Epimorphism.md",
+    "Extra Math/Category Theory/Categorical Product.md",
+    "Extra Math/Category Theory/Opposite Category.md",
+    "Extra Math/Category Theory/Initial Object.md",
+    "Extra Math/Category Theory/Terminal Object.md",
+    "Extra Math/Category Theory/Category SET.md",
+    "Extra Math/Category Theory/Total Order.md",
+    "Extra Math/Abstract Algebra/Basics/Monoid.md",
+    "Extra Math/Category Theory/Partial Order.md",
+    "Extra Math/Category Theory/Preorder.md",
+    "Extra Math/Category Theory/Order.md",
+    "Extra Math/Category Theory/Thin Category.md",
+    "Extra Math/Category Theory/Hom-Set.md",
+    "Inno F23/Mathematical analysis I/Binary Relation.md",
+    "Inno F23/Discrete math & Logic I/Relation.md",
+    "Inno F23/Mathematical analysis I/Cartesian Product.md",
+    "Extra Math/Category Theory/Kleisli Category.md",
+    "Extra Math/Category Theory/Category.md",
+    "Extra Math/Category Theory/Epimorphism.md",
     "Inno Sum24/Lambda Calculus/Lambda Calculus.md",
-    "Untitled.md",
     "Inno Sum24/Formal Program Semantics/Axiomatic Semantics.md",
+    "Inno F24",
+    "Untitled.md",
     "Inno Sum24/Lambda Calculus",
-    "Extra Math/Category Theory/Morphisms/Monomorphism.md",
+    "Extra Math/Category Theory/Monomorphism.md",
     "Inno Sum24/Formal Program Semantics/Operational Semantics.md",
     "Inno Sum24/Formal Program Semantics/Toy Esoteric Language.md",
     "Attachments/Pasted image 20240615192443.png",
     "Inno Sum24/Formal Program Semantics/Denotational Semantics.md",
     "Extra Math/Basic Definitions/Surjection.md",
-    "Extra Math/Basic Definitions/Injection.md",
-    "Extra Math/Category Theory/Basic Definitions/Morphism.md",
-    "Extra Math/Abstract Algebra/Basics/Epimorphism (Algebra).md",
     "Extra Math/Category Theory/Morphisms",
-    "Inno S24/Theoretical Computer Science/Generative Grammar.md",
-    "Inno S24/Theoretical Computer Science/Pumping Lemma.md",
-    "Inno S24/Theoretical Computer Science/Regular Language.md",
-    "Inno S24/Theoretical Computer Science/1. Theoretical Computer Science.md",
-    "Inno F23/Mathematical analysis I/Esoteric Programming Languages.md",
-    "Inno S24/Theoretical Computer Science/Chomsky Hierarchy.md",
-    "Inno S24/Theoretical Computer Science/Regular Grammar.md",
-    "Inno S24/Mathematical Analysis II/Multidimentional Taylor Series.md",
-    "Inno F23/Mathematical analysis I/Indefinite Integral.md",
-    "Personal/Laundry.md",
-    "Inno F23/Mathematical analysis I/Natural Numbers Representation.md",
     "Inno Sum24/Formal Program Semantics",
     "Inno Sum24",
-    "Extra Math/Category Theory/Basic Definitions/Category.md",
-    "Extra Math/Category Theory/Basic Definitions/Transitivity.md",
-    "Inno F23/Mathematical analysis I/Ordered Pair.md",
     "Extra Math/Category Theory/Basic Definitions",
     "Extra Math/Category Theory",
     "Extra Math/Abstract Algebra/Basics/Untitled",
     "Extra Math/Basic Definitions/Untitled",
     "Extra Math/Basic Definitions",
-    "Extra Math/Abstract Algebra/Basics",
     "Attachments/Pasted image 20240511175135.png",
     "Attachments/Pasted image 20240416123938.png",
     "Attachments/Pasted image 20240404145528.png",

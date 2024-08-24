@@ -5,7 +5,7 @@ tags:
   - Logic
 ---
 ## Definition 
-- $Y$ is a binary relation on $X_1, X_2$ if $X$ is a Cartesian product of sets $X_1, X_2$ (i.e., $Y \subseteq X_1 \times X_2$)
+- $Y$ is a *Binary* [[Relation]] on $X_1, X_2$ if $X$ is a [[Cartesian Product]] of sets $X_1, X_2$ (i.e., $Y \subseteq X_1 \times X_2$)
 ## Properties
 - reflexive $\iff \forall x: xRx \equiv true$
 - irreflexive $\iff \forall x: xRx \equiv false$

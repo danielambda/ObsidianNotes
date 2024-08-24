@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Lambda Calculus",
-      "path": "Inno Sum24/Lambda Calculus/Lambda Calculus.md"
+      "basename": "Categorical Product",
+      "path": "Extra Math/Category Theory/Categorical Product.md"
+    },
+    {
+      "basename": "Opposite Category",
+      "path": "Extra Math/Category Theory/Opposite Category.md"
+    },
+    {
+      "basename": "Initial Object",
+      "path": "Extra Math/Category Theory/Initial Object.md"
+    },
+    {
+      "basename": "Terminal Object",
+      "path": "Extra Math/Category Theory/Terminal Object.md"
+    },
+    {
+      "basename": "Category SET",
+      "path": "Extra Math/Category Theory/Category SET.md"
+    },
+    {
+      "basename": "Total Order",
+      "path": "Extra Math/Category Theory/Total Order.md"
+    },
+    {
+      "basename": "Monoid",
+      "path": "Extra Math/Abstract Algebra/Basics/Monoid.md"
+    },
+    {
+      "basename": "Partial Order",
+      "path": "Extra Math/Category Theory/Partial Order.md"
+    },
+    {
+      "basename": "Preorder",
+      "path": "Extra Math/Category Theory/Preorder.md"
+    },
+    {
+      "basename": "Thin Category",
+      "path": "Extra Math/Category Theory/Thin Category.md"
+    },
+    {
+      "basename": "Hom-Set",
+      "path": "Extra Math/Category Theory/Hom-Set.md"
+    },
+    {
+      "basename": "Binary Relation",
+      "path": "Inno F23/Mathematical analysis I/Binary Relation.md"
+    },
+    {
+      "basename": "Relation",
+      "path": "Inno F23/Discrete math & Logic I/Relation.md"
+    },
+    {
+      "basename": "Cartesian Product",
+      "path": "Inno F23/Mathematical analysis I/Cartesian Product.md"
+    },
+    {
+      "basename": "Category",
+      "path": "Extra Math/Category Theory/Category.md"
     },
     {
       "basename": "Epimorphism",
-      "path": "Extra Math/Category Theory/Morphisms/Epimorphism.md"
+      "path": "Extra Math/Category Theory/Epimorphism.md"
+    },
+    {
+      "basename": "Lambda Calculus",
+      "path": "Inno Sum24/Lambda Calculus/Lambda Calculus.md"
     },
     {
       "basename": "Axiomatic Semantics",
@@ -14,7 +74,7 @@
     },
     {
       "basename": "Monomorphism",
-      "path": "Extra Math/Category Theory/Morphisms/Monomorphism.md"
+      "path": "Extra Math/Category Theory/Monomorphism.md"
     },
     {
       "basename": "Operational Semantics",
@@ -42,7 +102,7 @@
     },
     {
       "basename": "Morphism",
-      "path": "Extra Math/Category Theory/Basic Definitions/Morphism.md"
+      "path": "Extra Math/Category Theory/Morphism.md"
     },
     {
       "basename": "Epimorphism (Algebra)",
@@ -89,12 +149,8 @@
       "path": "Inno F23/Mathematical analysis I/Natural Numbers Representation.md"
     },
     {
-      "basename": "Category",
-      "path": "Extra Math/Category Theory/Basic Definitions/Category.md"
-    },
-    {
       "basename": "Transitivity",
-      "path": "Extra Math/Category Theory/Basic Definitions/Transitivity.md"
+      "path": "Extra Math/Category Theory/Transitivity.md"
     },
     {
       "basename": "Ordered Pair",
@@ -143,62 +199,6 @@
     {
       "basename": "Column Space",
       "path": "Inno S24/Analytic Geometry & Linear Algebra II/Column Space.md"
-    },
-    {
-      "basename": "Row Space",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Row Space.md"
-    },
-    {
-      "basename": "Left Null Space",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Left Null Space.md"
-    },
-    {
-      "basename": "Null Space",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Null Space.md"
-    },
-    {
-      "basename": "Matrix Rank",
-      "path": "Inno F23/Analytic Geometry & Linear Algebra I/Matrix Rank.md"
-    },
-    {
-      "basename": "Matrix Transposition",
-      "path": "Inno F23/Analytic Geometry & Linear Algebra I/Matrix Transposition.md"
-    },
-    {
-      "basename": "BST Rotations",
-      "path": "Inno S24/Data Structures and Algorithms/BST Rotations.md"
-    },
-    {
-      "basename": "Binary Search Tree",
-      "path": "Inno S24/Data Structures and Algorithms/Binary Search Tree.md"
-    },
-    {
-      "basename": "Red-Black Tree",
-      "path": "Inno S24/Data Structures and Algorithms/Red-Black Tree.md"
-    },
-    {
-      "basename": "Pushdown Automata (PDA)",
-      "path": "Inno S24/Theoretical Computer Science/Pushdown Automata (PDA).md"
-    },
-    {
-      "basename": "Tree Traversals",
-      "path": "Inno S24/Data Structures and Algorithms/Tree Traversals.md"
-    },
-    {
-      "basename": "AVL Tree",
-      "path": "Inno S24/Data Structures and Algorithms/AVL Tree.md"
-    },
-    {
-      "basename": "Pasted image 20240304214116",
-      "path": "Attachments/Pasted image 20240304214116.png"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "Inno S24/Data Structures and Algorithms/Binary Tree.md"
-    },
-    {
-      "basename": "Randomly Build BST",
-      "path": "Inno S24/Data Structures and Algorithms/Randomly Build BST.md"
     }
   ],
   "omittedPaths": [],

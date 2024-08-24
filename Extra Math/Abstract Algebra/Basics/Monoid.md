@@ -7,4 +7,4 @@ tags:
 ## Definition
 - [[Associativity|Associative]] [[Magma]] with [[Identity Element]]
 #### Or
-- [[Group]] without the restriction of existence of [[Inverse Element]]s
+- [[Group]] without the restriction of existence of [[Inverse Element]]s 
