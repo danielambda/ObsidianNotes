@@ -4,24 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "27733bd0c3ec6727",
+        "id": "a875f12ff25f841b",
         "type": "tabs",
         "children": [
           {
-            "id": "08dc66154b8de6a3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ec19c8430997862",
+            "id": "68e70c68a2338e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extra Math/Category Theory/Terminal Object.md",
+                "file": "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "024ebad50a3b74e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poisson Random Variable.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.49999618530273
+    "width": 293.49999618530273,
+    "collapsed": true
   },
   "right": {
     "id": "716533eccc0e6ac0",
@@ -112,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Poisson Random Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Poisson Random Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Poisson Random Variable.md"
+              }
             }
           },
           {
@@ -191,45 +202,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08dc66154b8de6a3",
+  "active": "024ebad50a3b74e3",
   "lastOpenFiles": [
-    "Extra Math/Category Theory/Categorical Product.md",
-    "Extra Math/Category Theory/Opposite Category.md",
-    "Extra Math/Category Theory/Initial Object.md",
-    "Extra Math/Category Theory/Terminal Object.md",
-    "Extra Math/Category Theory/Category SET.md",
-    "Extra Math/Category Theory/Total Order.md",
-    "Extra Math/Abstract Algebra/Basics/Monoid.md",
-    "Extra Math/Category Theory/Partial Order.md",
-    "Extra Math/Category Theory/Preorder.md",
-    "Extra Math/Category Theory/Order.md",
-    "Extra Math/Category Theory/Thin Category.md",
-    "Extra Math/Category Theory/Hom-Set.md",
-    "Inno F23/Mathematical analysis I/Binary Relation.md",
-    "Inno F23/Discrete math & Logic I/Relation.md",
-    "Inno F23/Mathematical analysis I/Cartesian Product.md",
-    "Extra Math/Category Theory/Kleisli Category.md",
-    "Extra Math/Category Theory/Category.md",
-    "Extra Math/Category Theory/Epimorphism.md",
-    "Inno Sum24/Lambda Calculus/Lambda Calculus.md",
-    "Inno Sum24/Formal Program Semantics/Axiomatic Semantics.md",
+    "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md",
+    "Random Variable.md",
+    "Poisson Random Variable.md",
+    "Binomial Random Variable.md",
+    "Probability Mass Function.md",
+    "Cumulative Distribution Function.md",
+    "Bernoulli Random Variable.md",
+    "Inno F23/Introduction in programming I/Monotonicity in CS.md",
+    "Indicator Function.md",
+    "Independent Events.md",
+    "Mutually Exclusive Events.md",
+    "Event (Probability).md",
+    "Sigma Algebra of Events.md",
+    "Inno F24/Probabilities and Statistics/Sample Space.md",
+    "Inno F24/Probabilities and Statistics/Elementary Events.md",
+    "Programming Languages/Nix/Nix Derivations.md",
+    "Inno F24/Probabilities and Statistics",
+    "Programming Languages/Nix/Nix.md",
+    "Programming Languages/Nix/Nix Attribute Set.md",
+    "Programming Languages/Nix/Nix Modules.md",
+    "Inno F24/Introduction to Optimization/Simplex Method.md",
+    "Programming Languages/Nix/Nix builtints.md",
+    "Programming Languages/Nix/Nix pkgs.lib.md",
+    "Programming Languages/Nix/Nix Path.md",
+    "Inno F24/Introduction to Optimization/Introduction to Optimization.md",
+    "Inno F24/Introduction to Optimization/Linear Programing Problem.md",
+    "Inno F24/Introduction to Optimization",
+    "Programming Languages/Nix/Nix Fetchers.md",
+    "Programming Languages/Nix",
+    "Programming Languages",
+    "Inno F24/Operating Systems",
+    "Inno F24/Introduction to AI",
+    "Extra Math/Category Theory/Untitled",
     "Inno F24",
-    "Untitled.md",
     "Inno Sum24/Lambda Calculus",
-    "Extra Math/Category Theory/Monomorphism.md",
-    "Inno Sum24/Formal Program Semantics/Operational Semantics.md",
-    "Inno Sum24/Formal Program Semantics/Toy Esoteric Language.md",
     "Attachments/Pasted image 20240615192443.png",
-    "Inno Sum24/Formal Program Semantics/Denotational Semantics.md",
-    "Extra Math/Basic Definitions/Surjection.md",
     "Extra Math/Category Theory/Morphisms",
-    "Inno Sum24/Formal Program Semantics",
-    "Inno Sum24",
-    "Extra Math/Category Theory/Basic Definitions",
-    "Extra Math/Category Theory",
-    "Extra Math/Abstract Algebra/Basics/Untitled",
-    "Extra Math/Basic Definitions/Untitled",
-    "Extra Math/Basic Definitions",
     "Attachments/Pasted image 20240511175135.png",
     "Attachments/Pasted image 20240416123938.png",
     "Attachments/Pasted image 20240404145528.png",

@@ -1,8 +1,176 @@
 {
   "recentFiles": [
     {
+      "basename": "Poisson Random Variable",
+      "path": "Poisson Random Variable.md"
+    },
+    {
+      "basename": "Probabilities and Statistics",
+      "path": "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md"
+    },
+    {
+      "basename": "Random Variable",
+      "path": "Random Variable.md"
+    },
+    {
+      "basename": "Binomial Random Variable",
+      "path": "Binomial Random Variable.md"
+    },
+    {
+      "basename": "Probability Mass Function",
+      "path": "Probability Mass Function.md"
+    },
+    {
+      "basename": "Cumulative Distribution Function",
+      "path": "Cumulative Distribution Function.md"
+    },
+    {
+      "basename": "Bernoulli Random Variable",
+      "path": "Bernoulli Random Variable.md"
+    },
+    {
+      "basename": "Monotonicity in CS",
+      "path": "Inno F23/Introduction in programming I/Monotonicity in CS.md"
+    },
+    {
+      "basename": "Indicator Function",
+      "path": "Indicator Function.md"
+    },
+    {
+      "basename": "Independent Events",
+      "path": "Independent Events.md"
+    },
+    {
+      "basename": "Mutually Exclusive Events",
+      "path": "Mutually Exclusive Events.md"
+    },
+    {
+      "basename": "Event (Probability)",
+      "path": "Event (Probability).md"
+    },
+    {
+      "basename": "Sigma Algebra of Events",
+      "path": "Sigma Algebra of Events.md"
+    },
+    {
+      "basename": "Sample Space",
+      "path": "Inno F24/Probabilities and Statistics/Sample Space.md"
+    },
+    {
+      "basename": "Elementary Events",
+      "path": "Inno F24/Probabilities and Statistics/Elementary Events.md"
+    },
+    {
+      "basename": "Nix Derivations",
+      "path": "Programming Languages/Nix/Nix Derivations.md"
+    },
+    {
+      "basename": "Nix",
+      "path": "Programming Languages/Nix/Nix.md"
+    },
+    {
+      "basename": "Nix Attribute Set",
+      "path": "Programming Languages/Nix/Nix Attribute Set.md"
+    },
+    {
+      "basename": "Nix Modules",
+      "path": "Programming Languages/Nix/Nix Modules.md"
+    },
+    {
+      "basename": "Simplex Method",
+      "path": "Inno F24/Introduction to Optimization/Simplex Method.md"
+    },
+    {
+      "basename": "Nix builtints",
+      "path": "Programming Languages/Nix/Nix builtints.md"
+    },
+    {
+      "basename": "Nix pkgs.lib",
+      "path": "Programming Languages/Nix/Nix pkgs.lib.md"
+    },
+    {
+      "basename": "Nix Path",
+      "path": "Programming Languages/Nix/Nix Path.md"
+    },
+    {
+      "basename": "Introduction to Optimization",
+      "path": "Inno F24/Introduction to Optimization/Introduction to Optimization.md"
+    },
+    {
+      "basename": "Linear Programing Problem",
+      "path": "Inno F24/Introduction to Optimization/Linear Programing Problem.md"
+    },
+    {
+      "basename": "Nix Fetchers",
+      "path": "Programming Languages/Nix/Nix Fetchers.md"
+    },
+    {
+      "basename": "Topological Sort",
+      "path": "Inno S24/Data Structures and Algorithms/Topological Sort.md"
+    },
+    {
+      "basename": "1 Data Structures and Algorithms",
+      "path": "Inno S24/Data Structures and Algorithms/1 Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "Nix Impurities",
+      "path": "Programming Languages/Nix/Nix Impurities.md"
+    },
+    {
+      "basename": "Operating Systems",
+      "path": "Inno F24/Operating Systems/Operating Systems.md"
+    },
+    {
+      "basename": "System Call",
+      "path": "Inno F24/Operating Systems/System Call.md"
+    },
+    {
+      "basename": "User & Kernel Spaces",
+      "path": "Inno F24/Operating Systems/User & Kernel Spaces.md"
+    },
+    {
+      "basename": "Operating System",
+      "path": "Inno F24/Operating Systems/Operating System.md"
+    },
+    {
+      "basename": "Introduction to AI",
+      "path": "Inno F24/Introduction to AI/Introduction to AI.md"
+    },
+    {
+      "basename": "My Routines App",
+      "path": "My Routines App.md"
+    },
+    {
+      "basename": "Laws of Robotics",
+      "path": "Inno F24/Introduction to AI/Laws of Robotics.md"
+    },
+    {
+      "basename": "Categorical Co-Product (or Sum)",
+      "path": "Extra Math/Category Theory/Categorical Co-Product (or Sum).md"
+    },
+    {
+      "basename": "Functor",
+      "path": "Extra Math/Category Theory/Functor.md"
+    },
+    {
+      "basename": "Categorical Co-Product.excalidraw",
+      "path": "Excalidraw/Categorical Co-Product.excalidraw.md"
+    },
+    {
       "basename": "Categorical Product",
       "path": "Extra Math/Category Theory/Categorical Product.md"
+    },
+    {
+      "basename": "Categorical Product.excalidraw",
+      "path": "Excalidraw/Categorical Product.excalidraw.md"
+    },
+    {
+      "basename": "Category",
+      "path": "Extra Math/Category Theory/Category.md"
+    },
+    {
+      "basename": "Category SET",
+      "path": "Extra Math/Category Theory/Category SET.md"
     },
     {
       "basename": "Opposite Category",
@@ -15,10 +183,6 @@
     {
       "basename": "Terminal Object",
       "path": "Extra Math/Category Theory/Terminal Object.md"
-    },
-    {
-      "basename": "Category SET",
-      "path": "Extra Math/Category Theory/Category SET.md"
     },
     {
       "basename": "Total Order",
@@ -35,170 +199,6 @@
     {
       "basename": "Preorder",
       "path": "Extra Math/Category Theory/Preorder.md"
-    },
-    {
-      "basename": "Thin Category",
-      "path": "Extra Math/Category Theory/Thin Category.md"
-    },
-    {
-      "basename": "Hom-Set",
-      "path": "Extra Math/Category Theory/Hom-Set.md"
-    },
-    {
-      "basename": "Binary Relation",
-      "path": "Inno F23/Mathematical analysis I/Binary Relation.md"
-    },
-    {
-      "basename": "Relation",
-      "path": "Inno F23/Discrete math & Logic I/Relation.md"
-    },
-    {
-      "basename": "Cartesian Product",
-      "path": "Inno F23/Mathematical analysis I/Cartesian Product.md"
-    },
-    {
-      "basename": "Category",
-      "path": "Extra Math/Category Theory/Category.md"
-    },
-    {
-      "basename": "Epimorphism",
-      "path": "Extra Math/Category Theory/Epimorphism.md"
-    },
-    {
-      "basename": "Lambda Calculus",
-      "path": "Inno Sum24/Lambda Calculus/Lambda Calculus.md"
-    },
-    {
-      "basename": "Axiomatic Semantics",
-      "path": "Inno Sum24/Formal Program Semantics/Axiomatic Semantics.md"
-    },
-    {
-      "basename": "Monomorphism",
-      "path": "Extra Math/Category Theory/Monomorphism.md"
-    },
-    {
-      "basename": "Operational Semantics",
-      "path": "Inno Sum24/Formal Program Semantics/Operational Semantics.md"
-    },
-    {
-      "basename": "Toy Esoteric Language",
-      "path": "Inno Sum24/Formal Program Semantics/Toy Esoteric Language.md"
-    },
-    {
-      "basename": "Pasted image 20240615192443",
-      "path": "Attachments/Pasted image 20240615192443.png"
-    },
-    {
-      "basename": "Denotational Semantics",
-      "path": "Inno Sum24/Formal Program Semantics/Denotational Semantics.md"
-    },
-    {
-      "basename": "Surjection",
-      "path": "Extra Math/Basic Definitions/Surjection.md"
-    },
-    {
-      "basename": "Injection",
-      "path": "Extra Math/Basic Definitions/Injection.md"
-    },
-    {
-      "basename": "Morphism",
-      "path": "Extra Math/Category Theory/Morphism.md"
-    },
-    {
-      "basename": "Epimorphism (Algebra)",
-      "path": "Extra Math/Abstract Algebra/Basics/Epimorphism (Algebra).md"
-    },
-    {
-      "basename": "Generative Grammar",
-      "path": "Inno S24/Theoretical Computer Science/Generative Grammar.md"
-    },
-    {
-      "basename": "Pumping Lemma",
-      "path": "Inno S24/Theoretical Computer Science/Pumping Lemma.md"
-    },
-    {
-      "basename": "Regular Language",
-      "path": "Inno S24/Theoretical Computer Science/Regular Language.md"
-    },
-    {
-      "basename": "1. Theoretical Computer Science",
-      "path": "Inno S24/Theoretical Computer Science/1. Theoretical Computer Science.md"
-    },
-    {
-      "basename": "Esoteric Programming Languages",
-      "path": "Inno F23/Mathematical analysis I/Esoteric Programming Languages.md"
-    },
-    {
-      "basename": "Chomsky Hierarchy",
-      "path": "Inno S24/Theoretical Computer Science/Chomsky Hierarchy.md"
-    },
-    {
-      "basename": "Regular Grammar",
-      "path": "Inno S24/Theoretical Computer Science/Regular Grammar.md"
-    },
-    {
-      "basename": "Multidimentional Taylor Series",
-      "path": "Inno S24/Mathematical Analysis II/Multidimentional Taylor Series.md"
-    },
-    {
-      "basename": "Indefinite Integral",
-      "path": "Inno F23/Mathematical analysis I/Indefinite Integral.md"
-    },
-    {
-      "basename": "Natural Numbers Representation",
-      "path": "Inno F23/Mathematical analysis I/Natural Numbers Representation.md"
-    },
-    {
-      "basename": "Transitivity",
-      "path": "Extra Math/Category Theory/Transitivity.md"
-    },
-    {
-      "basename": "Ordered Pair",
-      "path": "Inno F23/Mathematical analysis I/Ordered Pair.md"
-    },
-    {
-      "basename": "Chromatic Number",
-      "path": "Inno F23/Discrete math & Logic I/Chromatic Number.md"
-    },
-    {
-      "basename": "Lagrange Theorem (Group Theory)",
-      "path": "Extra Math/Abstract Algebra/Group Theory/Lagrange Theorem (Group Theory).md"
-    },
-    {
-      "basename": "Chromatic Polynomial",
-      "path": "Extra Math/Abstract Algebra/Basics/Chromatic Polynomial.md"
-    },
-    {
-      "basename": "Master Theorem",
-      "path": "Inno S24/Data Structures and Algorithms/Master Theorem.md"
-    },
-    {
-      "basename": "1 Data Structures and Algorithms",
-      "path": "Inno S24/Data Structures and Algorithms/1 Data Structures and Algorithms.md"
-    },
-    {
-      "basename": "Least Squares",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Least Squares.md"
-    },
-    {
-      "basename": "Projection 2D",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Projection 2D.md"
-    },
-    {
-      "basename": "1. Analytic Geometry & Linear Algebra II",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/1. Analytic Geometry & Linear Algebra II.md"
-    },
-    {
-      "basename": "Projection",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Projection.md"
-    },
-    {
-      "basename": "4 Fundamental Spaces of Matrix",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/4 Fundamental Spaces of Matrix.md"
-    },
-    {
-      "basename": "Column Space",
-      "path": "Inno S24/Analytic Geometry & Linear Algebra II/Column Space.md"
     }
   ],
   "omittedPaths": [],
