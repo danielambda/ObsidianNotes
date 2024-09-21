@@ -9,6 +9,10 @@
       "path": "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md"
     },
     {
+      "basename": "Variance",
+      "path": "Variance.md"
+    },
+    {
       "basename": "Random Variable",
       "path": "Random Variable.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Partial Order",
       "path": "Extra Math/Category Theory/Partial Order.md"
-    },
-    {
-      "basename": "Preorder",
-      "path": "Extra Math/Category Theory/Preorder.md"
     }
   ],
   "omittedPaths": [],

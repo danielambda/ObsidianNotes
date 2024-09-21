@@ -12,3 +12,5 @@ was configuring [[Nix]]OS
 [[Sample Space]], [[Elementary Events]], [[Event (Probability)]], [[Sigma Algebra of Events]], [[Probability Space]], [[Independent Events]], [[Mutually Exclusive Events]]
 ## Week 3
 [[Random Variable]], [[Indicator Function]], [[Bernoulli Random Variable]], [[Cumulative Distribution Function]], [[Probability Mass Function]], [[Binomial Random Variable]], [[Poisson Random Variable]]
+## Week 4
+[[Variance]]

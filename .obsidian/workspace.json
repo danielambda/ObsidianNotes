@@ -205,8 +205,9 @@
   "active": "024ebad50a3b74e3",
   "lastOpenFiles": [
     "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md",
-    "Random Variable.md",
+    "Variance.md",
     "Poisson Random Variable.md",
+    "Random Variable.md",
     "Binomial Random Variable.md",
     "Probability Mass Function.md",
     "Cumulative Distribution Function.md",
@@ -231,7 +232,6 @@
     "Inno F24/Introduction to Optimization/Introduction to Optimization.md",
     "Inno F24/Introduction to Optimization/Linear Programing Problem.md",
     "Inno F24/Introduction to Optimization",
-    "Programming Languages/Nix/Nix Fetchers.md",
     "Programming Languages/Nix",
     "Programming Languages",
     "Inno F24/Operating Systems",
