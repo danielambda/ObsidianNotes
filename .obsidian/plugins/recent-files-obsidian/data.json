@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 24.09.2024 17.05.19.excalidraw",
+      "path": "Excalidraw/Drawing 24.09.2024 17.05.19.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 24.09.2024 17.05.16_0.excalidraw",
+      "path": "Excalidraw/Drawing 24.09.2024 17.05.16_0.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 24.09.2024 17.05.16.excalidraw",
+      "path": "Excalidraw/Drawing 24.09.2024 17.05.16.excalidraw.md"
+    },
+    {
       "basename": "Poisson Random Variable",
       "path": "Poisson Random Variable.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Terminal Object",
       "path": "Extra Math/Category Theory/Terminal Object.md"
-    },
-    {
-      "basename": "Total Order",
-      "path": "Extra Math/Category Theory/Total Order.md"
-    },
-    {
-      "basename": "Monoid",
-      "path": "Extra Math/Abstract Algebra/Basics/Monoid.md"
-    },
-    {
-      "basename": "Partial Order",
-      "path": "Extra Math/Category Theory/Partial Order.md"
     }
   ],
   "omittedPaths": [],

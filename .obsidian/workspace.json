@@ -32,9 +32,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e065516de7953a9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 24.09.2024 17.05.16.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a167b77cd7e9cee7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 24.09.2024 17.05.16_0.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d427f3d3c61029c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 24.09.2024 17.05.19.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -119,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poisson Random Variable.md",
+                "file": "Excalidraw/Drawing 24.09.2024 17.05.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poisson Random Variable.md",
+                "file": "Excalidraw/Drawing 24.09.2024 17.05.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poisson Random Variable.md"
+                "file": "Excalidraw/Drawing 24.09.2024 17.05.19.excalidraw.md"
               }
             }
           },
@@ -202,11 +232,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "024ebad50a3b74e3",
+  "active": "d427f3d3c61029c9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 24.09.2024 17.05.16_0.excalidraw.md",
+    "Excalidraw/Drawing 24.09.2024 17.05.19.excalidraw.md",
+    "Excalidraw/Drawing 24.09.2024 17.05.16.excalidraw.md",
+    "Poisson Random Variable.md",
     "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md",
     "Variance.md",
-    "Poisson Random Variable.md",
     "Random Variable.md",
     "Binomial Random Variable.md",
     "Probability Mass Function.md",
@@ -228,9 +261,6 @@
     "Inno F24/Introduction to Optimization/Simplex Method.md",
     "Programming Languages/Nix/Nix builtints.md",
     "Programming Languages/Nix/Nix pkgs.lib.md",
-    "Programming Languages/Nix/Nix Path.md",
-    "Inno F24/Introduction to Optimization/Introduction to Optimization.md",
-    "Inno F24/Introduction to Optimization/Linear Programing Problem.md",
     "Inno F24/Introduction to Optimization",
     "Programming Languages/Nix",
     "Programming Languages",
