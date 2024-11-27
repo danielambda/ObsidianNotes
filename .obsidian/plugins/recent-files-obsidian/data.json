@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 24.09.2024 17.05.19.excalidraw",
-      "path": "Excalidraw/Drawing 24.09.2024 17.05.19.excalidraw.md"
+      "basename": "Cauchy Convergence Test for Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Cauchy Convergence Test for Numeric Series.md"
     },
     {
-      "basename": "Drawing 24.09.2024 17.05.16_0.excalidraw",
-      "path": "Excalidraw/Drawing 24.09.2024 17.05.16_0.excalidraw.md"
+      "basename": "1. Mathematical Analysis II",
+      "path": "Inno S24/Mathematical Analysis II/1. Mathematical Analysis II.md"
     },
     {
-      "basename": "Drawing 24.09.2024 17.05.16.excalidraw",
-      "path": "Excalidraw/Drawing 24.09.2024 17.05.16.excalidraw.md"
+      "basename": "MathAn2Final",
+      "path": "Inno S24/Analytic Geometry & Linear Algebra II/MathAn2Final.md"
+    },
+    {
+      "basename": "MathAn2",
+      "path": "Inno S24/Mathematical Analysis II/MathAn2.md"
+    },
+    {
+      "basename": "Riemann Numeric Series Theorem",
+      "path": "Inno S24/Mathematical Analysis II/Riemann Numeric Series Theorem.md"
+    },
+    {
+      "basename": "Theorem of Rearrangement of Absolutely Converging Series",
+      "path": "Inno S24/Mathematical Analysis II/Theorem of Rearrangement of Absolutely Converging Series.md"
+    },
+    {
+      "basename": "Absolute Convergence of Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Absolute Convergence of Numeric Series.md"
     },
     {
       "basename": "Poisson Random Variable",
-      "path": "Poisson Random Variable.md"
+      "path": "Inno F24/Probabilities and Statistics/Poisson Random Variable.md"
     },
     {
-      "basename": "Probabilities and Statistics",
-      "path": "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md"
-    },
-    {
-      "basename": "Variance",
-      "path": "Variance.md"
-    },
-    {
-      "basename": "Random Variable",
-      "path": "Random Variable.md"
-    },
-    {
-      "basename": "Binomial Random Variable",
-      "path": "Binomial Random Variable.md"
-    },
-    {
-      "basename": "Probability Mass Function",
-      "path": "Probability Mass Function.md"
-    },
-    {
-      "basename": "Cumulative Distribution Function",
-      "path": "Cumulative Distribution Function.md"
-    },
-    {
-      "basename": "Bernoulli Random Variable",
-      "path": "Bernoulli Random Variable.md"
-    },
-    {
-      "basename": "Monotonicity in CS",
-      "path": "Inno F23/Introduction in programming I/Monotonicity in CS.md"
-    },
-    {
-      "basename": "Indicator Function",
-      "path": "Indicator Function.md"
-    },
-    {
-      "basename": "Independent Events",
-      "path": "Independent Events.md"
-    },
-    {
-      "basename": "Mutually Exclusive Events",
-      "path": "Mutually Exclusive Events.md"
-    },
-    {
-      "basename": "Event (Probability)",
-      "path": "Event (Probability).md"
-    },
-    {
-      "basename": "Sigma Algebra of Events",
-      "path": "Sigma Algebra of Events.md"
-    },
-    {
-      "basename": "Sample Space",
-      "path": "Inno F24/Probabilities and Statistics/Sample Space.md"
-    },
-    {
-      "basename": "Elementary Events",
-      "path": "Inno F24/Probabilities and Statistics/Elementary Events.md"
-    },
-    {
-      "basename": "Nix Derivations",
-      "path": "Programming Languages/Nix/Nix Derivations.md"
-    },
-    {
-      "basename": "Nix",
-      "path": "Programming Languages/Nix/Nix.md"
-    },
-    {
-      "basename": "Nix Attribute Set",
-      "path": "Programming Languages/Nix/Nix Attribute Set.md"
-    },
-    {
-      "basename": "Nix Modules",
-      "path": "Programming Languages/Nix/Nix Modules.md"
-    },
-    {
-      "basename": "Simplex Method",
-      "path": "Inno F24/Introduction to Optimization/Simplex Method.md"
-    },
-    {
-      "basename": "Nix builtints",
-      "path": "Programming Languages/Nix/Nix builtints.md"
-    },
-    {
-      "basename": "Nix pkgs.lib",
-      "path": "Programming Languages/Nix/Nix pkgs.lib.md"
-    },
-    {
-      "basename": "Nix Path",
-      "path": "Programming Languages/Nix/Nix Path.md"
-    },
-    {
-      "basename": "Introduction to Optimization",
-      "path": "Inno F24/Introduction to Optimization/Introduction to Optimization.md"
-    },
-    {
-      "basename": "Linear Programing Problem",
-      "path": "Inno F24/Introduction to Optimization/Linear Programing Problem.md"
-    },
-    {
-      "basename": "Nix Fetchers",
-      "path": "Programming Languages/Nix/Nix Fetchers.md"
-    },
-    {
-      "basename": "Topological Sort",
-      "path": "Inno S24/Data Structures and Algorithms/Topological Sort.md"
-    },
-    {
-      "basename": "1 Data Structures and Algorithms",
-      "path": "Inno S24/Data Structures and Algorithms/1 Data Structures and Algorithms.md"
-    },
-    {
-      "basename": "Nix Impurities",
-      "path": "Programming Languages/Nix/Nix Impurities.md"
-    },
-    {
-      "basename": "Operating Systems",
-      "path": "Inno F24/Operating Systems/Operating Systems.md"
-    },
-    {
-      "basename": "System Call",
-      "path": "Inno F24/Operating Systems/System Call.md"
-    },
-    {
-      "basename": "User & Kernel Spaces",
-      "path": "Inno F24/Operating Systems/User & Kernel Spaces.md"
-    },
-    {
-      "basename": "Operating System",
-      "path": "Inno F24/Operating Systems/Operating System.md"
-    },
-    {
-      "basename": "Introduction to AI",
-      "path": "Inno F24/Introduction to AI/Introduction to AI.md"
-    },
-    {
-      "basename": "My Routines App",
-      "path": "My Routines App.md"
-    },
-    {
-      "basename": "Laws of Robotics",
-      "path": "Inno F24/Introduction to AI/Laws of Robotics.md"
+      "basename": "Induction in Formal Logic",
+      "path": "Inno F23/Discrete math & Logic I/Induction in Formal Logic.md"
     },
     {
       "basename": "Categorical Co-Product (or Sum)",
       "path": "Extra Math/Category Theory/Categorical Co-Product (or Sum).md"
     },
     {
+      "basename": "Hom-Set",
+      "path": "Extra Math/Category Theory/Hom-Set.md"
+    },
+    {
       "basename": "Functor",
       "path": "Extra Math/Category Theory/Functor.md"
     },
     {
-      "basename": "Categorical Co-Product.excalidraw",
-      "path": "Excalidraw/Categorical Co-Product.excalidraw.md"
-    },
-    {
-      "basename": "Categorical Product",
-      "path": "Extra Math/Category Theory/Categorical Product.md"
-    },
-    {
-      "basename": "Categorical Product.excalidraw",
-      "path": "Excalidraw/Categorical Product.excalidraw.md"
-    },
-    {
-      "basename": "Category",
-      "path": "Extra Math/Category Theory/Category.md"
+      "basename": "Epimorphism",
+      "path": "Extra Math/Category Theory/Epimorphism.md"
     },
     {
       "basename": "Category SET",
       "path": "Extra Math/Category Theory/Category SET.md"
     },
     {
+      "basename": "Category",
+      "path": "Extra Math/Category Theory/Category.md"
+    },
+    {
+      "basename": "Categorical Product",
+      "path": "Extra Math/Category Theory/Categorical Product.md"
+    },
+    {
+      "basename": "Thin Category",
+      "path": "Extra Math/Category Theory/Thin Category.md"
+    },
+    {
       "basename": "Opposite Category",
       "path": "Extra Math/Category Theory/Opposite Category.md"
+    },
+    {
+      "basename": "Morphism",
+      "path": "Extra Math/Category Theory/Morphism.md"
+    },
+    {
+      "basename": "Monomorphism",
+      "path": "Extra Math/Category Theory/Monomorphism.md"
     },
     {
       "basename": "Initial Object",
       "path": "Extra Math/Category Theory/Initial Object.md"
     },
     {
-      "basename": "Terminal Object",
-      "path": "Extra Math/Category Theory/Terminal Object.md"
+      "basename": "Pointers in C",
+      "path": "Inno F23/Introduction in programming I/Pointers in C.md"
+    },
+    {
+      "basename": "Indicator Function",
+      "path": "Inno F24/Probabilities and Statistics/Indicator Function.md"
+    },
+    {
+      "basename": "Random Variable",
+      "path": "Inno F24/Probabilities and Statistics/Random Variable.md"
+    },
+    {
+      "basename": "Expected Value",
+      "path": "Inno F24/Probabilities and Statistics/Expected Value.md"
+    },
+    {
+      "basename": "Hypergeometric Distribution",
+      "path": "Inno F24/Probabilities and Statistics/Hypergeometric Distribution.md"
+    },
+    {
+      "basename": "Hyperbola",
+      "path": "Inno F23/Analytic Geometry & Linear Algebra I/Hyperbola.md"
+    },
+    {
+      "basename": "Floyd-Warshall Algorithm",
+      "path": "Inno S24/Data Structures and Algorithms/Floyd-Warshall Algorithm.md"
+    },
+    {
+      "basename": "Longest Common Subsequence",
+      "path": "Inno S24/Data Structures and Algorithms/Longest Common Subsequence.md"
+    },
+    {
+      "basename": "Ford-Fulkerson Algorithm",
+      "path": "Inno F23/Discrete math & Logic I/Ford-Fulkerson Algorithm.md"
+    },
+    {
+      "basename": "Binary Search Tree",
+      "path": "Inno S24/Data Structures and Algorithms/Binary Search Tree.md"
+    },
+    {
+      "basename": "B-Tree",
+      "path": "Inno S24/Data Structures and Algorithms/B-Tree.md"
+    },
+    {
+      "basename": "Bellman-Ford Algorithm",
+      "path": "Inno S24/Data Structures and Algorithms/Bellman-Ford Algorithm.md"
+    },
+    {
+      "basename": "Binary Tree",
+      "path": "Inno S24/Data Structures and Algorithms/Binary Tree.md"
+    },
+    {
+      "basename": "Heapsort",
+      "path": "Inno S24/Data Structures and Algorithms/Heapsort.md"
+    },
+    {
+      "basename": "Binary Heap",
+      "path": "Inno S24/Data Structures and Algorithms/Binary Heap.md"
+    },
+    {
+      "basename": "Dijkstra’s Algorithm",
+      "path": "Inno F23/Discrete math & Logic I/Dijkstra’s Algorithm.md"
+    },
+    {
+      "basename": "Complete Binary Tree",
+      "path": "Inno S24/Data Structures and Algorithms/Complete Binary Tree.md"
+    },
+    {
+      "basename": "Binary Relation",
+      "path": "Inno F23/Mathematical analysis I/Binary Relation.md"
+    },
+    {
+      "basename": "Depth-First Search (DFS)",
+      "path": "Inno F23/Discrete math & Logic I/Depth-First Search (DFS).md"
+    },
+    {
+      "basename": "Breadth-First Search (BFS)",
+      "path": "Inno F23/Discrete math & Logic I/Breadth-First Search (BFS).md"
+    },
+    {
+      "basename": "Continuity",
+      "path": "Inno F23/Mathematical analysis I/Continuity.md"
+    },
+    {
+      "basename": "Esoteric Programming Languages",
+      "path": "Inno F23/Mathematical analysis I/Esoteric Programming Languages.md"
+    },
+    {
+      "basename": "1. Mathematical Analysis",
+      "path": "Inno F23/Mathematical analysis I/1. Mathematical Analysis.md"
+    },
+    {
+      "basename": "Mathematical induction",
+      "path": "Inno F23/Mathematical analysis I/Mathematical induction.md"
+    },
+    {
+      "basename": "Peano Postulates",
+      "path": "Inno F23/Mathematical analysis I/Peano Postulates.md"
+    },
+    {
+      "basename": "My Routines App",
+      "path": "My Routines App.md"
+    },
+    {
+      "basename": "Taylor Series",
+      "path": "Inno F23/Mathematical analysis I/Taylor Series.md"
+    },
+    {
+      "basename": "probability-space:2024-10-11-04-56-25",
+      "path": "Inno F24/Probabilities and Statistics/probability-space:2024-10-11-04-56-25.md"
+    },
+    {
+      "basename": "Probabilities and Statistics",
+      "path": "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md"
     }
   ],
   "omittedPaths": [],

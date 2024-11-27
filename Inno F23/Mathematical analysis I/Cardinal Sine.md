@@ -1,4 +1,6 @@
 ---
+id: Cardinal Sine
+aliases: []
 tags:
   - Math
   - MathematicalAnalysis
@@ -6,9 +8,9 @@ tags:
 ## Definition
 $$sinc(x) = \begin{cases}1, if \; x = 0\\ {\Large\frac{\sin x}{x}}, if\; x \not=0\end{cases}\ $$
 
-## Proof 
+## Proof
 ### Statement
-- $\displaystyle\lim_{x\to0}\frac{\sin x}{x} = 1$
+ $$\displaystyle\lim_{x\to0}\frac{\sin x}{x} = 1$$
 ### Proof
 ![[Pasted image 20231002130632.png]]
 - $AB = AC = 1$

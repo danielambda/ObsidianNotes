@@ -1,4 +1,6 @@
 ---
+id: Functor
+aliases: []
 tags:
   - Math
   - CategoryTheory

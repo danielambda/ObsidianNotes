@@ -5,7 +5,7 @@ tags:
 ---
 ## Theorem
 - The [[Numeric Series]] converges if
-$$\forall\varepsilon\in\mathbb R,\varepsilon>0\;\exists N\in\mathbb N: \forall p\in\mathbb N, N<n<p$$
+$$\forall\varepsilon\in\mathbb R,\varepsilon>0\;\exists N\in\mathbb N: \forall n, p\in\mathbb N, N<n<p$$
 
 $$\left|\sum^p_{k=n}a_k\right|<\varepsilon$$
 ## Proof 

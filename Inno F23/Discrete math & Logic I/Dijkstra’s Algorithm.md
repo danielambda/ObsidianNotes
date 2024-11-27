@@ -1,4 +1,6 @@
 ---
+id: Dijkstra’s Algorithm
+aliases: []
 tags:
   - Math
   - DiscreteMath
@@ -16,13 +18,13 @@ slide: "12.76"
 2. For the current vertex, consider all of its unvisited neighbors and calculate their tentative distances through the current vertex (choose the smallest one). When we are done considering all of the unvisited neighbors of the current vertex, mark the current vertex as visited
 3. If there are no unvisited vertices, then the algorithm is finished. Otherwise, select the unvisited vertex that is marked with the smallest tentative distance, set it as the new “current vertex”, and go back to step 2.
 ## Code
-```C#
+```cs
 void Dijkstra(Graph g, Func<Edge, double> w, vertext sourse)
 {
 	InitializeSingleSourse(g, sourse)
 
 	PriorityQueue<double, Vertex> queue =
-	    new FibonacciHeap<double, Vertex>(g.Vertices.Select(u => 
+	    new FibonacciHeap<double, Vertex>(g.Vertices.Select(u =>
 		    new KeyValuePair<double, Vertext>
 		    (
 			    u.ShortestPathWeight, u

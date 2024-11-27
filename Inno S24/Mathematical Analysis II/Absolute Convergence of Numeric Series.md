@@ -9,5 +9,7 @@ tags:
 ## Properties
 $$\forall c\in \mathbb R:$$
 $\displaystyle \sum^{\infty}_{n=0} c\cdot a_n=c\sum^{\infty}_{n=0} a_n$
+
 $\displaystyle c_n=a_n+b_n\implies \sum^{\infty}_{n=0}a_n+\sum^{\infty}_{n=0} b_n=\sum^{\infty}_{n=0}c_n$
-$\displaystyle c_n=a_n \sum^{\infty}_{n=0}b_n\implies \sum^{\infty}_{n=0}a_n\cdot\sum^{\infty}_{n=0} b_n=\sum^{\infty}_{n=0}c_n$
+
+$\displaystyle c_n=a_n \sum^{\infty}_{m=0}b_m\implies \sum^{\infty}_{n=0}a_n\cdot\sum^{\infty}_{n=0} b_n=\sum^{\infty}_{n=0}c_n$

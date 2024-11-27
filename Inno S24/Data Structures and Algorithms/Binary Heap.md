@@ -1,4 +1,6 @@
 ---
+id: Binary Heap
+aliases: []
 tags:
   - DataStructures
 ---
@@ -6,40 +8,40 @@ tags:
 - A binary max-heap is a [[Complete Binary Tree]] that maintains the max-heap property
 ## Max-Heap Property
 - for any parent and child nodes:
-```
+```cs
 parent.key >= child.key
 ```
 ## Heapify Function
-``` c#
-void MaxHeapify(Heap heap, int currentIndex) 
+``` cs
+void MaxHeapify(Heap heap, int currentIndex)
 {
-	int l = Left(currentIndex);
-	int r = Right(currentIndex);
+    int l = Left(currentIndex);
+    int r = Right(currentIndex);
 
-	int maxIndex = currentIndex;
+    int maxIndex = currentIndex;
 
-	if (l <= heap.Size && heap[l] > heap[currentIndex])
-		maxIndex = l;
+    if (l <= heap.Size && heap[l] > heap[currentIndex])
+        maxIndex = l;
 
-	if (r <= heap.Size && heap[r] > heap[largest])
-		maxIndex = r;
+    if (r <= heap.Size && heap[r] > heap[largest])
+        maxIndex = r;
 
-	if (maxIndex != currentIndex)
-	{
-		Swap(heap, currentIndex, maxIndex);
-		MaxHeapify(heap, largest);
-	}
+    if (maxIndex != currentIndex)
+    {
+        Swap(heap, currentIndex, maxIndex);
+        MaxHeapify(heap, largest);
+    }
 }
 ```
 ## Heap Maximum Function
-``` C#
+``` cs
 int HeapMaximum(Heap heap) => heap[0];
 ```
 ## Heap Extract Max Function
-``` C#
-int HeapExtractMax(Heap heap) 
+``` cs
+int HeapExtractMax(Heap heap)
 {
-	if (heap.size < 1) 
+	if (heap.size < 1)
 		throw new HeapUnderflowException();
 
 	int max = HeapMaximum(heap);
@@ -51,15 +53,15 @@ int HeapExtractMax(Heap heap)
 }
 ```
 ## Heap Increase Key Function
-``` C#
-void HeapIncreaseKey(Heap heap, int i, int newPriority) 
+``` cs
+void HeapIncreaseKey(Heap heap, int i, int newPriority)
 {
 	if (newPriority < heap[i])
 		throw new ArgumentExcaption();
 
 	heap[i] = newPriority;
 
-	while (i > 0 && heap[Parent(i)] < heap[i]) 
+	while (i > 0 && heap[Parent(i)] < heap[i])
 	{
 		Swap(heap, i, Parent(i));
 		i = Parent(i);
@@ -67,8 +69,8 @@ void HeapIncreaseKey(Heap heap, int i, int newPriority)
 }
 ```
 ## Heap Insert Function
-``` C#
-void HeapInsert(Heap heap, int priority) 
+``` cs
+void HeapInsert(Heap heap, int priority)
 {
 	heap.size++;
 	heap[heap.size - 1] = int.MinValue;

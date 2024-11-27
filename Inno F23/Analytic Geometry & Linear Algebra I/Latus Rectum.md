@@ -1,4 +1,6 @@
 ---
+id: Latus Rectum
+aliases: []
 tags:
   - Math
   - AGLA
