@@ -1,12 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Cauchy Convergence Test for Numeric Series",
-      "path": "Inno S24/Mathematical Analysis II/Cauchy Convergence Test for Numeric Series.md"
+      "basename": "Introduction to AI",
+      "path": "Inno F24/Introduction to AI/Introduction to AI.md"
+    },
+    {
+      "basename": "evolutionary-algorithm:2024-12-03-01-57-38",
+      "path": "Inno F24/Introduction to AI/evolutionary-algorithm:2024-12-03-01-57-38.md"
+    },
+    {
+      "basename": "evolutinary-strategy:2024-12-03-01-28-24",
+      "path": "Inno F24/Introduction to AI/evolutinary-strategy:2024-12-03-01-28-24.md"
+    },
+    {
+      "basename": "normal-distribution:2024-12-03-01-34-17",
+      "path": "Inno F24/Introduction to AI/normal-distribution:2024-12-03-01-34-17.md"
+    },
+    {
+      "basename": "monte-carlo-tree-search:2024-12-03-00-53-33",
+      "path": "Inno F24/Introduction to AI/monte-carlo-tree-search:2024-12-03-00-53-33.md"
+    },
+    {
+      "basename": "prolog:2024-12-03-00-37-29",
+      "path": "Inno F24/Introduction to AI/prolog:2024-12-03-00-37-29.md"
+    },
+    {
+      "basename": "Laws of Robotics",
+      "path": "Inno F24/Introduction to AI/Laws of Robotics.md"
+    },
+    {
+      "basename": "My Routines App",
+      "path": "My Routines App.md"
+    },
+    {
+      "basename": "Moment Generating Function",
+      "path": "Moment Generating Function.md"
+    },
+    {
+      "basename": "1728429549-cauchy-distribution",
+      "path": "1728429549-cauchy-distribution.md"
+    },
+    {
+      "basename": "1728426627-moments-of-a-continuos-random-variable",
+      "path": "1728426627-moments-of-a-continuos-random-variable.md"
+    },
+    {
+      "basename": "1728426412-probability-density-function",
+      "path": "1728426412-probability-density-function.md"
+    },
+    {
+      "basename": "Limit of a Sequence",
+      "path": "Inno F23/Mathematical analysis I/Limit of a Sequence.md"
+    },
+    {
+      "basename": "Comparison Convergence Test for Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Comparison Convergence Test for Numeric Series.md"
+    },
+    {
+      "basename": "Little o-notation",
+      "path": "Inno F23/Mathematical analysis I/Little o-notation.md"
+    },
+    {
+      "basename": "Truncation Error",
+      "path": "Inno S24/Mathematical Analysis II/Truncation Error.md"
     },
     {
       "basename": "1. Mathematical Analysis II",
       "path": "Inno S24/Mathematical Analysis II/1. Mathematical Analysis II.md"
+    },
+    {
+      "basename": "Necessary Condition for Convergence of Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Necessary Condition for Convergence of Numeric Series.md"
+    },
+    {
+      "basename": "Convolution of Power Series",
+      "path": "Inno S24/Mathematical Analysis II/Convolution of Power Series.md"
+    },
+    {
+      "basename": "Dirichlet Test",
+      "path": "Inno S24/Mathematical Analysis II/Dirichlet Test.md"
+    },
+    {
+      "basename": "Leibniz Theorem about Alternating Series",
+      "path": "Inno S24/Mathematical Analysis II/Leibniz Theorem about Alternating Series.md"
+    },
+    {
+      "basename": "Root Convergence Test for Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Root Convergence Test for Numeric Series.md"
+    },
+    {
+      "basename": "Ratio Convergence Test for Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Ratio Convergence Test for Numeric Series.md"
+    },
+    {
+      "basename": "Integral Test for Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Integral Test for Numeric Series.md"
+    },
+    {
+      "basename": "Divergence Test for Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Divergence Test for Numeric Series.md"
+    },
+    {
+      "basename": "Cauchy Convergence Test for Numeric Series",
+      "path": "Inno S24/Mathematical Analysis II/Cauchy Convergence Test for Numeric Series.md"
+    },
+    {
+      "basename": "Cauchy Sequences Convergence test",
+      "path": "Inno F23/Mathematical analysis I/Cauchy Sequences Convergence test.md"
     },
     {
       "basename": "MathAn2Final",
@@ -99,106 +199,6 @@
     {
       "basename": "Expected Value",
       "path": "Inno F24/Probabilities and Statistics/Expected Value.md"
-    },
-    {
-      "basename": "Hypergeometric Distribution",
-      "path": "Inno F24/Probabilities and Statistics/Hypergeometric Distribution.md"
-    },
-    {
-      "basename": "Hyperbola",
-      "path": "Inno F23/Analytic Geometry & Linear Algebra I/Hyperbola.md"
-    },
-    {
-      "basename": "Floyd-Warshall Algorithm",
-      "path": "Inno S24/Data Structures and Algorithms/Floyd-Warshall Algorithm.md"
-    },
-    {
-      "basename": "Longest Common Subsequence",
-      "path": "Inno S24/Data Structures and Algorithms/Longest Common Subsequence.md"
-    },
-    {
-      "basename": "Ford-Fulkerson Algorithm",
-      "path": "Inno F23/Discrete math & Logic I/Ford-Fulkerson Algorithm.md"
-    },
-    {
-      "basename": "Binary Search Tree",
-      "path": "Inno S24/Data Structures and Algorithms/Binary Search Tree.md"
-    },
-    {
-      "basename": "B-Tree",
-      "path": "Inno S24/Data Structures and Algorithms/B-Tree.md"
-    },
-    {
-      "basename": "Bellman-Ford Algorithm",
-      "path": "Inno S24/Data Structures and Algorithms/Bellman-Ford Algorithm.md"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "Inno S24/Data Structures and Algorithms/Binary Tree.md"
-    },
-    {
-      "basename": "Heapsort",
-      "path": "Inno S24/Data Structures and Algorithms/Heapsort.md"
-    },
-    {
-      "basename": "Binary Heap",
-      "path": "Inno S24/Data Structures and Algorithms/Binary Heap.md"
-    },
-    {
-      "basename": "Dijkstra’s Algorithm",
-      "path": "Inno F23/Discrete math & Logic I/Dijkstra’s Algorithm.md"
-    },
-    {
-      "basename": "Complete Binary Tree",
-      "path": "Inno S24/Data Structures and Algorithms/Complete Binary Tree.md"
-    },
-    {
-      "basename": "Binary Relation",
-      "path": "Inno F23/Mathematical analysis I/Binary Relation.md"
-    },
-    {
-      "basename": "Depth-First Search (DFS)",
-      "path": "Inno F23/Discrete math & Logic I/Depth-First Search (DFS).md"
-    },
-    {
-      "basename": "Breadth-First Search (BFS)",
-      "path": "Inno F23/Discrete math & Logic I/Breadth-First Search (BFS).md"
-    },
-    {
-      "basename": "Continuity",
-      "path": "Inno F23/Mathematical analysis I/Continuity.md"
-    },
-    {
-      "basename": "Esoteric Programming Languages",
-      "path": "Inno F23/Mathematical analysis I/Esoteric Programming Languages.md"
-    },
-    {
-      "basename": "1. Mathematical Analysis",
-      "path": "Inno F23/Mathematical analysis I/1. Mathematical Analysis.md"
-    },
-    {
-      "basename": "Mathematical induction",
-      "path": "Inno F23/Mathematical analysis I/Mathematical induction.md"
-    },
-    {
-      "basename": "Peano Postulates",
-      "path": "Inno F23/Mathematical analysis I/Peano Postulates.md"
-    },
-    {
-      "basename": "My Routines App",
-      "path": "My Routines App.md"
-    },
-    {
-      "basename": "Taylor Series",
-      "path": "Inno F23/Mathematical analysis I/Taylor Series.md"
-    },
-    {
-      "basename": "probability-space:2024-10-11-04-56-25",
-      "path": "Inno F24/Probabilities and Statistics/probability-space:2024-10-11-04-56-25.md"
-    },
-    {
-      "basename": "Probabilities and Statistics",
-      "path": "Inno F24/Probabilities and Statistics/Probabilities and Statistics.md"
     }
   ],
   "omittedPaths": [],

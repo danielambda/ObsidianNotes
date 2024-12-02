@@ -26,4 +26,4 @@ $(5)$ Let $\varepsilon>0$
 $(6)$ Let $W =U\cap V$, $W$ is a neighborhood of $d$
 	$\forall x\in W:|f(x)|\leq|g(x)|\leq\varepsilon|h(x)|\implies\forall x\in W:|f(x)|\leq\varepsilon|h(x)|, Q.E.D.\blacksquare$
 ## Notes
-- $\displaystyle f(x)\in o(g(x))\iff\lim_{x\to\inf}\frac{f(x)}{g(x)} = 0$
+- $\displaystyle f(x)\in o(g(x))\iff\lim_{x\to\infty}\frac{f(x)}{g(x)} = 0$

@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6de919e365c6f95d",
+            "id": "3e932a71f9e8aea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inno S24/Mathematical Analysis II/1. Mathematical Analysis II.md",
-                "mode": "preview",
+                "file": "Inno F24/Introduction to AI/Introduction to AI.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Mathematical Analysis II"
-            }
-          },
-          {
-            "id": "eb27c83c642bef6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inno S24/Mathematical Analysis II/Cauchy Convergence Test for Numeric Series.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cauchy Convergence Test for Numeric Series"
+              "title": "Introduction to AI"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -228,44 +212,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb27c83c642bef6a",
+  "active": "3e932a71f9e8aea0",
   "lastOpenFiles": [
+    "Inno F24/Introduction to AI/Introduction to AI.md~",
+    "Inno F24/Introduction to AI/evolutionary-algorithm:2024-12-03-01-57-38.md",
+    "Inno F24/Introduction to AI/evolutionary-algorithm:2024-12-03-01-57-38.md~",
+    "Inno F24/Introduction to AI/Introduction to AI.md",
+    "Inno F24/Introduction to AI/evolutinary-strategy:2024-12-03-01-28-24.md",
+    "Inno F24/Introduction to AI/evolutinary-strategy:2024-12-03-01-28-24.md~",
+    "Inno F24/Introduction to AI/4913",
+    "Inno F24/Introduction to AI/normal-distribution:2024-12-03-01-34-17.md",
+    "Inno F24/Introduction to AI/normal-distribution:2024-12-03-01-34-17.md~",
+    "Inno F24/Introduction to AI/monte-carlo-tree-search:2024-12-03-00-53-33.md",
+    "Inno F24/Introduction to AI/monte-carlo-tree-search:2024-12-03-00-53-33.md~",
+    "Pasted image 20241203005651.png",
+    "Inno F24/Introduction to AI/prolog:2024-12-03-00-37-29.md",
+    "Inno F24/Introduction to AI/prolog:2024-12-03-00-37-29.md~",
+    "Prolog.md",
+    "Inno F24/Introduction to AI/Laws of Robotics.md",
+    "My Routines App.md",
+    "2024-10-11.md",
+    "Moment Generating Function.md",
+    "1728429549-cauchy-distribution.md",
+    "1728500884-QXRV.md",
+    "1728609648-2024-10-11-appendix.md",
+    "1728426627-moments-of-a-continuos-random-variable.md",
+    "1728426412-probability-density-function.md",
+    "Inno F23/Mathematical analysis I/Limit of a Sequence.md",
+    "Inno S24/Mathematical Analysis II/Comparison Convergence Test for Numeric Series.md",
+    "Inno F23/Mathematical analysis I/Little o-notation.md",
+    "Inno S24/Mathematical Analysis II/Truncation Error.md",
     "Inno S24/Mathematical Analysis II/1. Mathematical Analysis II.md",
-    "Inno S24/Analytic Geometry & Linear Algebra II/MathAn2Final.md",
-    "Inno S24/Mathematical Analysis II/MathAn2.md",
-    "Inno S24/Mathematical Analysis II/Riemann Numeric Series Theorem.md",
-    "Inno S24/Mathematical Analysis II/Theorem of Rearrangement of Absolutely Converging Series.md",
-    "Inno S24/Mathematical Analysis II/Absolute Convergence of Numeric Series.md",
-    "Inno F23/Discrete math & Logic I/Induction in Formal Logic.md",
-    "Extra Math/Category Theory/Hom-Set.md",
-    "Extra Math/Category Theory/Functor.md",
-    "Extra Math/Category Theory/Epimorphism.md",
-    "Extra Math/Category Theory/Category SET.md",
-    "Extra Math/Category Theory/Category.md",
-    "Extra Math/Category Theory/Categorical Product.md",
-    "Extra Math/Category Theory/Categorical Co-Product (or Sum).md",
-    "Extra Math/Category Theory/Thin Category.md",
-    "Extra Math/Category Theory/Opposite Category.md",
-    "Extra Math/Category Theory/Morphism.md",
-    "Extra Math/Category Theory/Monomorphism.md",
-    "Extra Math/Category Theory/Initial Object.md",
-    "Inno F23/Introduction in programming I/Pointers in C.md",
+    "Inno S24/Mathematical Analysis II/Necessary Condition for Convergence of Numeric Series.md",
+    "Inno S24/Mathematical Analysis II/Convolution of Power Series.md",
+    "Inno S24/Mathematical Analysis II/Dirichlet Test.md",
+    "Inno S24/Mathematical Analysis II/Leibniz Theorem about Alternating Series.md",
     "Inno F23/Introduction in programming I/Pointers in C.md~",
-    "Inno F24/Probabilities and Statistics/Indicator Function.md",
-    "Inno F24/Probabilities and Statistics/Random Variable.md",
-    "Inno F24/Probabilities and Statistics/Expected Value.md",
-    "Inno F24/Probabilities and Statistics/Hypergeometric Distribution.md",
-    "Inno F23/Analytic Geometry & Linear Algebra I/Hyperbola.md",
-    "Inno S24/Data Structures and Algorithms/Floyd-Warshall Algorithm.md",
     "Inno S24/Data Structures and Algorithms/Floyd-Warshall Algorithm.md~",
     "Inno S24/Data Structures and Algorithms/Longest Common Subsequence.md~",
-    "Inno F23/Discrete math & Logic I/Ford-Fulkerson Algorithm.md~",
-    "Inno S24/Data Structures and Algorithms/Binary Search Tree.md~",
-    "Inno S24/Data Structures and Algorithms/B-Tree.md~",
-    "Inno S24/Data Structures and Algorithms/Bellman-Ford Algorithm.md~",
-    "Inno S24/Data Structures and Algorithms/Heapsort.md~",
-    "Inno F23/Discrete math & Logic I/Dijkstra’s Algorithm.md~",
-    "Inno S24/Data Structures and Algorithms/Binary Heap.md~",
     "assets/imgs/1728611916-.png",
     "Attachments/Pasted image 20240615192443.png",
     "Attachments/Pasted image 20240511175135.png",
@@ -274,7 +258,6 @@
     "Attachments/Pasted image 20240404145503.png",
     "Attachments/Pasted image 20240404145452.png",
     "Attachments/Pasted image 20240404143547.png",
-    "Attachments/Pasted image 20240404142944.png",
-    "Attachments/Pasted image 20240404142700.png"
+    "Attachments/Pasted image 20240404142944.png"
   ]
 }

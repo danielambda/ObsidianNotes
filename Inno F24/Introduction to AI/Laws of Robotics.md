@@ -1,7 +1,11 @@
 ---
+id: Laws of Robotics
+aliases: []
 tags:
   - AI
 ---
+## 0
+A robot may not injure humanity or, through inaction, allow humanity to come to harm
 ## 1
 Robot should protect human
 ## 2
